@@ -1,2 +1,2 @@
 # SwiftUI-WordScramble
-Simple SwiftUI game. Based on hackingwithswift.com with simple enhancements
+Simple SwiftUI game. Based on hackingwithswift.com project with simple enhancements
